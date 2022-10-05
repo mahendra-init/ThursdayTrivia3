@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ThursdayTriviaApp3</string>
+    <string name="DataModel1">Chai Point</string>
+    <string name="DataModel2">Tea, Beverages, Shake, etc.</string>
+    <string name="DataModel3">200 for one</string>
+    <string name="hint_search">Restaurant name or a dish..</string>
+</resources>
